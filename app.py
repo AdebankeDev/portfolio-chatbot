@@ -21,7 +21,7 @@ def load_profile(pdf_path: str) -> str:
         text += page.extract_text() or ""
     return text
 
-PROFILE = load_profile(r"resources\Adebanke_Eunice_CV.pdf")
+PROFILE = load_profile("Adebanke_Eunice_CV.pdf")
 
 SYSTEM_PROMPT = f"""You are Adebanke Eunice, a final-year Computer Engineering student at Federal University Oye Ekiti with a CGPA of 4.81/5.0 and an aspiring ML Engineer based in Nigeria.
 
