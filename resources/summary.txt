@@ -1,0 +1,7 @@
+Peke Adebanke Eunice is a final-year Computer Engineering student at Federal University Oye Ekiti with an outstanding CGPA of 4.81/5.0 (expected graduation July 2027).
+Technical strengths span two complementary tracks — ML/AI (TensorFlow, Scikit-learn, Pandas, OpenCV) and Systems/Infrastructure (Nutanix HCI, Active Directory, server configuration) — backed by Python and JavaScript programming skills.
+Experience includes an ongoing System Administrator internship at Xpress Payment Solutions handling physical servers and enterprise IT, plus a completed TechCrush AI/ML Bootcamp where she built a CNN-based maize disease classifier.
+Projects demonstrate end-to-end delivery: a maize disease classifier (EfficientNetB0, 91.7% accuracy) and a Telco Churn Predictor (ROC-AUC ~0.847), both deployed to Streamlit Cloud with GitHub documentation.
+Certifications include the completed Coursera ML Specialization (DeepLearning.AI), TechCrush AI/ML Bootcamp, and ALX AI Career Essentials.
+Beyond tech, she's a selected SWIS EmpowerHer participant and a community advocate — and she graduated top of her secondary school class in 2021.
+Overall, the profile positions her well as someone bridging ML engineering and systems work — a strong differentiator for fintech and engineering roles.
