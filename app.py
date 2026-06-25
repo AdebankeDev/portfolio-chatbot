@@ -12,7 +12,7 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-tavily = TavilyClient(api_key=os.environ.get("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"))
+tavily = TavilyClient(api_key=os.environ.get("TAVILY_API_KEY"))
 
 def load_profile(pdf_path: str) -> str:
     text = ""
