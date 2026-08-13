@@ -12,6 +12,7 @@ pinned: false
 An agentic portfolio chatbot that talks as me — powered by OpenAI GPT-4o-mini via OpenRouter, Tavily web search, built with Gradio, and deployed on Hugging Face Spaces via Docker.
 
 🔗 Live Demo: https://adebankedev-portfolio-chatbot.hf.space
+
 🤗 Hugging Face Space: https://huggingface.co/spaces/AdebankeDev/portfolio_chatbot
 
 ## Features
