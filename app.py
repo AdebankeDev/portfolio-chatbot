@@ -254,10 +254,10 @@ def chat(message: str, history: list) -> str:
 
 
 # ── Gradio UI ─────────────────────────────────────────────────────────────────
-with gr.Blocks(title="Adebanke Eunice | Portfolio") as demo:
+with gr.Blocks(title="Adebanke Eunice Peke | Portfolio") as demo:
 
     gr.Markdown("""
-    # Adebanke Eunice
+    # Adebanke Eunice Peke
     ### Computer Engineering Student | ML Engineer in the Making
     *Feel free to ask me about my skills, projects, experience, or how to get in touch.*
     """)
